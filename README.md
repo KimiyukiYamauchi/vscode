@@ -12,7 +12,7 @@
 - [ ] Auto Save (自動保存)の設定
 - [ ] Tab Size (タブサイズ)の設定
 - [ ] Word Wrap (折り返し)の設定
-- [ ] Emmet VAriables (Emmet変数)の設定
+- [ ] Emmet Variables (Emmet変数)の設定
 
 ## プログラミング用フォントの導入
 
