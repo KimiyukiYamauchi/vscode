@@ -19,7 +19,7 @@
 - [ ] 確認用のテキストの貼り付け
 
 ```
-ab c　d
+ab c　d O 0 l 1
 ```
 
 - [ ] <a href="https://github.com/edihbrandon/RictyDiminished/raw/master/RictyDiminished-Regular.ttf">Ricty Diminished</a>のインストール
