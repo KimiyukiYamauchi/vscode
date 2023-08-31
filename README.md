@@ -7,12 +7,18 @@
 
 ## エディタの設定
 
-- [ ] 日本語化
-- [ ] GitHub Themeの設定
-- [ ] Auto Save (自動保存)の設定
-- [ ] Tab Size (タブサイズ)の設定
-- [ ] Word Wrap (折り返し)の設定
-- [ ] Emmet Variables (Emmet変数)の設定
+- 拡張機能インストール
+  - [ ] 日本語化
+  - [ ] GitHub Themeの設定
+- 設定
+  - よく使うもの
+    - [ ] Auto Save (自動保存)の設定(afterDelay)
+    - [ ] Tab Size (タブサイズ)の設定(2)
+    - [ ] Editor: Render Whitespace(all)
+    - [ ] Word Wrap (折り返し)の設定(on)
+  - 拡張機能
+    - Emmet Variables (Emmet変数)の設定
+      - [ ] 項目: lang、値: ja
 
 ## プログラミング用フォントの導入
 
